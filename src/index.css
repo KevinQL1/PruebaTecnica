@@ -1,0 +1,82 @@
+body {
+  background-image: url(https://asesoriadeimagen.com.co/wp-content/uploads/2016/11/sandra_palomino_asesoria_imagen_colores_calidos_bogota.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.warnings{
+  width: 200px;
+  text-align: center;
+  margin: auto;
+  color: #B06AB3;
+  padding-top: 20px;
+}
+
+.Table, .td, .th {
+  border: 1px solid black;
+}
+
+.th {
+  height: 50px;
+}
+
+.Table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.Formulario{
+  width: 410px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 10px;
+  border-radius: 4px;
+  font-family: 'Calibri';
+  color: white;
+  box-shadow: 7px 13px 35px #000;
+}
+
+h1 {
+  padding: 5px;
+  font-size: 35px;
+  text-align: center;
+}
+
+.datos {
+width: 100%;
+background: #24303c;
+padding: 10px;
+border-radius: 4px;
+margin-bottom: 16px;
+border: 1px solid #1f53c5;
+font-family: 'calibri';
+font-size: 18px;
+color: white;
+}
+
+.boton-guardar{
+width: 100%;
+background: #1f53c5;
+border: none;
+padding: 12px;
+color: white;
+margin: 16px 0;
+font-size: 16px;
+}
+
+.boton-limpiar{
+  width: 100%;
+  background: #1f53c5;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+  }
